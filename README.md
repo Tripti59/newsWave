@@ -6,6 +6,7 @@
 #USED: HTML, CSS, JAVASCRIPT and API integration. 
 
 
+
 #Output:
 
 
